@@ -1,0 +1,102 @@
+/*common css  start*/
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    outline:0px;
+    }
+    
+    h1,h2,h3,h4,h5,h6,p{
+    margin: 0px;
+    padding: 0px;
+    line-height: 0.8;
+    }
+    a{
+    text-decoration:none;
+    
+    }
+    .clr{
+    clear: both;
+    
+    }
+    /* common csscommon 
+    /* Features part Start */
+    #features_part{
+       padding: 150px 0px;
+      background: #f1f1f1;;
+
+    }
+    .text_part{
+       text-align: center; 
+    }
+    .text_part h3{
+       text-align: center; 
+       font-family: 'Roboto', sans-serif;
+font-weight: 100;
+margin-bottom: 20px;
+line-height: 1.4;
+color: #29282b;
+letter-spacing: 2px;
+    }
+    .text_part p{
+      padding-top:10px;
+      width:400px;
+      margin:0 auto;
+      font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 300;
+letter-spacing: 1px;
+line-height: 1.8;
+color: #29282b;
+    }
+    .icon_go{
+
+        font-size: 50px;
+        margin-bottom: 20px;
+       color:red;
+
+    }
+    .icon_part{
+
+      padding-top: 50px;
+
+     
+    }
+
+.right{
+
+text-align:right;
+padding-top: 50px;
+
+}
+.icon_part h3{
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 2px;
+    font-size: 16px;
+    margin-bottom: 20px;
+
+}
+.icon_part p{
+   
+    color: rgb(41, 40, 43);
+    font-family: "Roboto",sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    line-height: 28.8px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+
+
+}
+.left{
+
+    padding-top: 50px;
+}
+.text_part span{
+    font-weight: 400;
+
+}
+    /* Features part end */
